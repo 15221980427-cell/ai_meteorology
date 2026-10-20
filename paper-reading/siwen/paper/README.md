@@ -1,18 +1,19 @@
 # PDF 原文管理
 
-这里只保存**可以合法分享的 PDF**；若版权或许可不允许公开，请只保留 DOI、出版社地址或开放获取链接，不要上传全文到公开仓库。
+> 本目录用于存放获得适当公开分发授权的论文 PDF；**上传成功不等于已确认再分发许可**。对于未经授权公开的论文，请改为保留 DOI 或出版社页面链接。
 
-## 待补充
+## 已上传文件
 
-| 文献 | 当前状态 | 原始入口 |
-|---|---|---|
-| *Wind power forecasting with deep representation: A survey* (Applied Energy, 2026) | 待核实转载权限；尚未复制 PDF | [原实验室仓库文件](https://github.com/Shu-CrossDomain-AI-Lab/research-hub/blob/main/paper-reading/siwen-chen/paper/Wind%20power%20forecasting%20with%20deep%20representation%20A%20survey.pdf) · [DOI](https://doi.org/10.1016/j.apenergy.2026.128106) |
+| 文献 | GitHub 文件 | 状态 | DOI |
+|---|---|---|---|
+| *Wind power forecasting with deep representation: A survey* (*Applied Energy*, 2026) | [查看 PDF](Wind%20power%20forecasting%20with%20deep%20representation%20A%20survey.pdf) | **文件已上传**（3.28 MB）；公开再分发权限需确认 | [10.1016/j.apenergy.2026.128106](https://doi.org/10.1016/j.apenergy.2026.128106) |
 
-## 手动上传方式
+## 添加其他文献
 
-1. 打开本目录，在 GitHub 选择 **Add file → Upload files**；
-2. 仅上传拥有公开分发许可的原文 PDF；否则保留 DOI / 开放获取地址即可；
-3. 文件名使用英文、小写、连字符，例如 `wind-power-forecasting-deep-representation-survey.pdf`；
-4. 上传后更新此表状态，并在相应文献笔记中补充相对链接 `../paper/xxx.pdf`。
+1. 首先核查论文许可证是否允许在公开 GitHub 仓库再分发全文；不能确认的先放 DOI 或开放获取链接。
+2. 有授权的文件，通过 **Add file → Upload files** 上传到此目录。
+3. 更新上表，并在对应笔记中增加相对链接，例如 `../paper/文件名.pdf`。
 
-> 注意：图示和论文全文可能存在不同的版权限制；公开仓库不等于可以自由分发所有论文材料。
+## 来源说明
+
+该文件亦见于 [SHU CrossDomain AI Lab 的 research-hub](https://github.com/Shu-CrossDomain-AI-Lab/research-hub/tree/main/paper-reading/siwen-chen/paper)。此处仅记录文件与来源，不代表版权所有者已授予公开再分发许可。
