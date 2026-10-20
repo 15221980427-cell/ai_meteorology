@@ -1,6 +1,6 @@
 # Wind Power Forecasting with Deep Representation: A Survey
 
-- **Paper:** [Wind power forecasting with deep representation: A survey](https://doi.org/10.1016/j.apenergy.2026.128106)
+- **Paper:** [Wind power forecasting with deep representation: A survey](https://doi.org/10.1016/j.apenergy.2026.128106) · [本仓库 PDF](../paper/Wind%20power%20forecasting%20with%20deep%20representation%20A%20survey.pdf)
 - **Authors:** Decheng Liu, Yunfei Yan, Shuai Chen, Bo Wang, Xinghua Li, and Haibin Zhang
 - **Published in:** *Applied Energy*, 421 (2026), article 128106
 - **Article type:** Survey of deep-representation methods for wind power forecasting (WPF), not a new model proposal
