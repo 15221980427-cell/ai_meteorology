@@ -14,7 +14,7 @@
 Weather fields have strong spatial and temporal structure, but the output a user needs varies. A power operator may need a single expected wind field, an ensemble of plausible futures, or a model that can be adapted to a new region with limited labels. The paper argues that the learning objective and output should be considered alongside architecture names.
 
 
-![Original Fig. 2 — Training frameworks for deterministic prediction, probabilistic generation, and pre-training/fine-tuning](images/weather-fm-fig-2-paradigms.jpg)
+![Original Fig. 2 — Training frameworks for deterministic prediction, probabilistic generation, and pre-training/fine-tuning](../images/weather-fm-fig-2-paradigms.jpg)
 
 *Shi et al., Fig. 2, arXiv:2501.06907v1 (2025). [Full preprint](https://arxiv.org/abs/2501.06907).*
 
@@ -40,7 +40,7 @@ The authors describe weather prediction along four task dimensions:
 - **Event type:** ordinary conditions or events such as heavy rainfall, heatwaves, storms, and cyclones.
 
 
-![Original Fig. 1 — Perspectives of weather forecasting](images/weather-fm-fig-1-perspectives.jpg)
+![Original Fig. 1 — Perspectives of weather forecasting](../images/weather-fm-fig-1-perspectives.jpg)
 
 *Shi et al., Fig. 1, arXiv:2501.06907v1 (2025). [Full preprint](https://arxiv.org/abs/2501.06907).*
 
