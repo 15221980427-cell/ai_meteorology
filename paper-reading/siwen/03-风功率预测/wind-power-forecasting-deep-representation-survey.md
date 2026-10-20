@@ -17,7 +17,7 @@ WPF inputs often combine environmental variables—wind speed, direction, temper
 The authors review literature primarily from 2020–2025 and organize the review into four linked pieces: preprocessing; model representations and attention; learning strategies; and experimental/application analysis. Their publication-trend analysis reports sustained growth in WPF studies, with RNNs remaining common, GNNs increasing, attention increasingly used, and LLM-based approaches only beginning to emerge.
 
 
-![Original Fig. 4 — Deep-learning wind-power forecasting framework](images/wind-power-fig-4-framework.png)
+![Original Fig. 4 — Deep-learning wind-power forecasting framework](../images/wind-power-fig-4-framework.png)
 
 *Liu et al., Fig. 4, p. 3. [Original article](https://doi.org/10.1016/j.apenergy.2026.128106).*
 
@@ -39,7 +39,7 @@ The article treats preprocessing as part of the forecasting method, not a neutra
 The intuition behind Fig. 6 is to split a complicated power series into components at different time scales. A model can then learn the smoother trend and faster fluctuations separately or as a set of components.
 
 
-![Original Fig. 6 — EMD and wavelet decompositions of wind-turbine SCADA power](images/wind-power-fig-6-decomposition.jpg)
+![Original Fig. 6 — EMD and wavelet decompositions of wind-turbine SCADA power](../images/wind-power-fig-6-decomposition.jpg)
 
 *Liu et al., Fig. 6, p. 6. [Original article](https://doi.org/10.1016/j.apenergy.2026.128106).*
 
@@ -69,7 +69,7 @@ Attention weights can show what the model emphasized, but they are not automatic
 ## 4. Three model families—and their trade-offs
 
 
-![Original Fig. 7 — Sketches of LLM, GNN, and RNN wind-power forecasting models](images/wind-power-fig-7-architectures.png)
+![Original Fig. 7 — Sketches of LLM, GNN, and RNN wind-power forecasting models](../images/wind-power-fig-7-architectures.png)
 
 *Liu et al., Fig. 7, p. 8. [Original article](https://doi.org/10.1016/j.apenergy.2026.128106).*
 
@@ -116,7 +116,7 @@ The authors explicitly caution that model superiority is scenario-dependent. Tab
 - **Together:** the paper treats them as complementary: federation shares learning across sites; transfer/personalization adapts the shared model to each site. Personalized robust aggregation and federated split learning are examples of attempts to address heterogeneous data or limited edge compute.
 
 
-![Original Fig. 8 — Federated-learning workflow across wind farms](images/wind-power-fig-8-federated-learning.png)
+![Original Fig. 8 — Federated-learning workflow across wind farms](../images/wind-power-fig-8-federated-learning.png)
 
 *Liu et al., Fig. 8, p. 14. [Original article](https://doi.org/10.1016/j.apenergy.2026.128106).*
 
